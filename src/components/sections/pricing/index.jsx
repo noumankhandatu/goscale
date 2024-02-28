@@ -1,5 +1,5 @@
 import { Button } from "@mui/material";
-import { AppMainheading, Appcaption, Appfont } from "../../../theme/typo";
+import { AppMainheading, Appfont } from "../../../theme/typo";
 import "./style.css";
 const Pricing = () => {
   return (
