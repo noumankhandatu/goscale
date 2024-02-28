@@ -32,7 +32,7 @@ export const AppLabel = styled(Typography)({
 export const Appcaption = styled(Typography)({
   fontFamily: "Urbanist",
   fontWeight: 400,
-  fontSize: "14px",
+  fontSize: "18px",
   lineHeight: "22.4px",
   color: "white",
 });
