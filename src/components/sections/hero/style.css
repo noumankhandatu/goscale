@@ -1,0 +1,11 @@
+.hero-section {
+  background-image: url("https://assets-global.website-files.com/6561683d7688a3e476387de2/6566e9c75ea27b18ff3c5d73_64878f1ef909d40a40634088_Group%2047563%20(2).png");
+  background-position: 100% 100%;
+  background-size: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 160px;
+  padding-bottom: 80px;
+  display: flex;
+}
