@@ -1,0 +1,115 @@
+.columns-how-it-works {
+  width: 100%;
+  height: 75vh;
+  max-width: 1200px;
+}
+.column-left {
+  height: 100%;
+  position: relative;
+  top: 0%;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.w-col-6 {
+  width: 50%;
+}
+.w-col {
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+}
+.w-col-6 {
+  width: 50%;
+}
+
+.w-col {
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+}
+.header-container.center.left-align.no-bottom {
+  max-width: none;
+  margin-bottom: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 1px;
+}
+
+.header-container.center.left-align {
+  align-items: flex-start;
+}
+.header-container.center {
+  max-width: 700px;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
+  display: flex;
+}
+.w-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div-grids {
+  justify-content: space-between;
+  display: flex;
+}
+.div-process {
+  height: 100%;
+}
+.grid-works {
+  height: 100%;
+  grid-column-gap: 48px;
+  grid-row-gap: 48px;
+  flex-direction: column;
+  grid-template-rows: auto auto auto;
+  grid-template-columns: 1fr;
+  display: flex;
+}
+.div-expla {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  display: flex;
+}
+.div-nb,
+.nb {
+  width: 50px;
+  height: 50px;
+}
+.div-txt-process {
+  width: 90%;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.hiw-section {
+  background-image: url("https://assets-global.website-files.com/6561683d7688a3e476387de2/6565eb97d5cf48104557ac51_Group%2012%20(2).svg"),
+    url("https://assets-global.website-files.com/6561683d7688a3e476387de2/6566e9c75ea27b18ff3c5d73_64878f1ef909d40a40634088_Group%2047563%20(2).png");
+  background-position: 35%, 0 0;
+  background-repeat: no-repeat, no-repeat;
+  background-size: auto, contain;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  display: flex;
+  padding: 100px;
+}

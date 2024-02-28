@@ -1,0 +1,65 @@
+.objections-section,
+.services-section {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  display: flex;
+}
+.div-objec {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+}
+.side {
+  width: 100%;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-right: 40px;
+  display: flex;
+}
+.side {
+  width: 100%;
+  grid-column-gap: 16px px;
+  grid-row-gap: 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-right: 40px;
+  display: flex;
+}
+.seperator.obj {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.seperator {
+  width: 100%;
+  height: 0.5px;
+  background-color: #6a6b6f;
+}
+._2x2 {
+  width: 100%;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+}
+.w-layout-grid {
+  grid-row-gap: 16px;
+  grid-column-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+.objec-icon {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  display: flex;
+}
+.objec {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  align-items: flex-start;
+  display: flex;
+}
