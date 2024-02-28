@@ -2,7 +2,6 @@ import Grid from "@mui/material/Unstable_Grid2/Grid2";
 import { Appfont, Appheading } from "../../../theme/typo";
 import AppDiv from "../../atoms/AppDiv";
 import BenefitCard from "../../molecules/BeneiftCard";
-import "./style.css";
 
 const Beneiftis = () => {
   return (
